@@ -1,3 +1,4 @@
+// cloning an array
 function cloneArray(array) {
   return [...array];
 }
