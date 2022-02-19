@@ -29,8 +29,11 @@
    a. 1st Commit: Getting Started,
 
    - Run the following commands:
+
      `$ cd "WebDev Simplified Tutorial"`
+
      `$ npm init -y`
+
      `$ npm install --save-dev jest`
 
    - See package.json:
