@@ -3,12 +3,15 @@
 1. Resources:
 
    - Official Docs:
+
      +, https://jestjs.io/
 
    - Tutorial Video 1: Websimplified (14 minutes):
+
      +, https://www.youtube.com/watch?v=FgnxcUQ5vho&ab_channel=WebDevSimplified
 
    - Tutorial Video 2: Traversy Media (58 minutes)
+
      +, https://www.youtube.com/watch?v=7r4xVDI2vho&ab_channel=TraversyMedia
 
 2. Fundamentals:
